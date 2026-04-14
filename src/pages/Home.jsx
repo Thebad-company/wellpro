@@ -5,7 +5,7 @@ import { ProblemSection } from '../components/ProblemSection';
 import { HowItWorksSection } from '../components/HowItWorksSection';
 import { SolutionSection } from '../components/SolutionSection';
 import { TestimonialsSection } from '../components/TestimonialsSection';
-import { LifestyleSection } from '../components/LifeStyleSection';
+import { LifestyleSection } from '../components/LifestyleSection';
 import { AuthoritySection } from '../components/AuthoritySection';
 import { PricingSection } from '../components/PricingSection';
 import { FinalCTASection } from '../components/FinalCTASection';
