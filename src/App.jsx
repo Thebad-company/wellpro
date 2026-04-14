@@ -13,7 +13,7 @@ import { PCODPage, DiabetesPage } from './pages/Disorders';
 import { DisorderPage } from './pages/DisorderPage';
 import { ProtocolPage } from './pages/ProtocolPage';
 import { ProgramPage } from './pages/ProgramPage';
-import { WellnessVerticalsPage } from './pages/WellnessVerticalsPage';
+import { AboutPage } from './pages/AboutPage';
 import { WOWAssessmentPage } from './pages/WOWAssessmentPage';
 import { NotFound } from './pages/NotFound';
 
@@ -47,7 +47,8 @@ function App() {
               <Route path="/pcod" element={<PCODPage />} />
               <Route path="/diabetes" element={<DiabetesPage />} />
               <Route path="/protocols/:protocolId" element={<ProtocolPage />} />
-              <Route path="/wellness-verticals" element={<WellnessVerticalsPage />} />
+              <Route path="/wellness-verticals" element={<AboutPage />} />
+              <Route path="/about" element={<AboutPage />} />
               <Route path="/wow-assessment" element={<WOWAssessmentPage />} />
               <Route path="*" element={<NotFound />} />
             </Routes>

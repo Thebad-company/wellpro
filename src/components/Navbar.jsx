@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { Button } from './ui/button';
 import { ChevronDown, Menu, X } from 'lucide-react';
@@ -162,8 +162,8 @@ export const Navbar = () => {
                             </div>
                         </div>
 
-                        <NavLink to="/wellness-verticals" className={({ isActive }) => `px-3 py-2 rounded-lg transition-all ${navClass({ isActive })}`}>
-                            Verticals
+                        <NavLink to="/about" className={({ isActive }) => `px-3 py-2 rounded-lg transition-all ${navClass({ isActive })}`}>
+                            About Us
                         </NavLink>
 
                         <NavLink to="/wow-assessment" className={({ isActive }) => `px-3 py-2 rounded-lg transition-all ${navClass({ isActive })}`}>
@@ -230,8 +230,8 @@ export const Navbar = () => {
                                 ))}
                             </div>
                             <div className="px-2 space-y-2">
-                                <NavLink to="/wellness-verticals" className="block px-3 py-2 text-gray-700 hover:bg-wellpro-green/10 hover:text-wellpro-green rounded transition-colors text-sm" onClick={() => setMobileMenuOpen(false)}>
-                                    Wellness Verticals
+                                <NavLink to="/about" className="block px-3 py-2 text-gray-700 hover:bg-wellpro-green/10 hover:text-wellpro-green rounded transition-colors text-sm" onClick={() => setMobileMenuOpen(false)}>
+                                    About Us
                                 </NavLink>
                                 <NavLink to="/wow-assessment" className="block px-3 py-2 text-gray-700 hover:bg-wellpro-green/10 hover:text-wellpro-green rounded transition-colors text-sm" onClick={() => setMobileMenuOpen(false)}>
                                     WOW Assessment
