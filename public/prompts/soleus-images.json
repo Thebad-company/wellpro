@@ -1,0 +1,110 @@
+{
+  "project": "WellPro Soleus Activation Page",
+  "context": "WellPro is a holistic wellness platform focused on reversing lifestyle disorders through evidence-based protocols combining physical activation, breathwork, and meditation. The Soleus page showcases the science of soleus muscle activation for metabolic optimization.",
+  "brand_colors": {
+    "primary_green": "#7AC143",
+    "navy": "#1A3A52",
+    "orange": "#FF6B35",
+    "purple": "#9B59B6"
+  },
+  "images": [
+    {
+      "id": "hero_soleus_activation",
+      "section": "Hero Section",
+      "purpose": "Main visual showcasing soleus activation exercise",
+      "prompt": "A fit, healthy person in their 30s sitting on a modern chair in a bright, minimalist wellness studio. They are performing soleus activation exercise with their calf muscles visibly engaged and tensed. The person has a focused, peaceful expression. The setting features clean white walls, natural light from large windows, and subtle green wellness accents. Professional medical/wellness photography style. High quality, realistic, well-lit, modern aesthetic. The image should convey scientific precision and wellness transformation.",
+      "style": "Professional medical photography, wellness aesthetic, modern minimalist setting",
+      "resolution": "1920x1080",
+      "aspect_ratio": "16:9"
+    },
+    {
+      "id": "vagus_nerve_anatomy",
+      "section": "Brain-Gut Connection",
+      "purpose": "Anatomical illustration of vagus nerve pathway",
+      "prompt": "A detailed, scientifically accurate anatomical illustration showing the vagus nerve pathway from the brain through the body to the gut. The illustration uses a color scheme of deep blue for the nervous system, emerald green for the vagus nerve, and subtle navy backgrounds. The brain, heart, lungs, and digestive system are shown in cross-section. Modern medical illustration style with clean lines and professional labeling. The image should be educational yet visually appealing, suitable for a wellness website. High quality, detailed, scientifically accurate.",
+      "style": "Medical illustration, anatomical diagram, scientific accuracy, modern design",
+      "resolution": "1200x1200",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "id": "soleus_muscle_anatomy",
+      "section": "Muscle Anatomy",
+      "purpose": "Detailed anatomical diagram of soleus muscle",
+      "prompt": "A detailed anatomical illustration of the human calf showing the soleus muscle highlighted in vibrant emerald green (#7AC143). The illustration shows the soleus muscle in relation to the gastrocnemius muscle above it, with clear anatomical labels and muscle fiber details. The background uses a subtle gradient from light to navy blue. The style is modern medical illustration with clean lines, professional appearance, and scientific accuracy. The image should clearly show why the soleus is unique for metabolic activation. High quality, detailed, educational.",
+      "style": "Medical illustration, anatomical diagram, scientific, educational",
+      "resolution": "1000x1200",
+      "aspect_ratio": "5:6"
+    },
+    {
+      "id": "soleus_shakti_practice",
+      "section": "Three Practices - Soleus Shakti",
+      "purpose": "Demonstration of soleus activation exercise",
+      "prompt": "A person in their 30s sitting on a modern chair in a bright wellness studio, performing soleus activation exercise. Their calf muscles are visibly engaged and tensed. The person wears comfortable, modern athletic wear in neutral colors. The setting is clean, minimalist, with natural light, white walls, and subtle green wellness accents. The focus is on the leg and calf area showing muscle engagement. Professional wellness photography. The image conveys precision, scientific approach, and wellness transformation. High quality, realistic, well-lit, modern aesthetic.",
+      "style": "Professional wellness photography, modern minimalist, scientific precision",
+      "resolution": "1200x800",
+      "aspect_ratio": "3:2"
+    },
+    {
+      "id": "pranayam_breathing",
+      "section": "Three Practices - Pranayam",
+      "purpose": "Demonstration of pranayam breathing practice",
+      "prompt": "A person in their 30s sitting in a comfortable meditation pose in a serene, bright wellness studio. They have a peaceful, focused expression with eyes closed or gently open, demonstrating controlled breathing. The setting features natural light, white walls, soft green plants, and calming elements. The person wears comfortable, modern athletic wear in neutral colors. The atmosphere is calm, peaceful, and scientific. Professional wellness photography capturing the essence of breathwork and nervous system regulation. High quality, realistic, serene, professional.",
+      "style": "Professional wellness photography, serene, peaceful, scientific",
+      "resolution": "1200x800",
+      "aspect_ratio": "3:2"
+    },
+    {
+      "id": "dhyan_meditation",
+      "section": "Three Practices - Dhyan",
+      "purpose": "Demonstration of meditation practice",
+      "prompt": "A person in their 30s sitting in a peaceful meditation pose in a serene, minimalist wellness environment. They have a deeply peaceful, meditative expression with eyes closed. The setting features soft natural light, white walls, subtle green accents, and calming elements like plants or water features. The person wears comfortable, modern athletic wear in neutral colors. The atmosphere conveys deep inner peace, mindfulness, and brain-gut axis regulation. Professional wellness photography. High quality, realistic, deeply peaceful, transformative.",
+      "style": "Professional wellness photography, deeply peaceful, mindful, transformative",
+      "resolution": "1200x800",
+      "aspect_ratio": "3:2"
+    },
+    {
+      "id": "glucose_metabolism_diagram",
+      "section": "Biological Impact",
+      "purpose": "Scientific diagram showing glucose metabolism process",
+      "prompt": "A modern scientific infographic showing glucose metabolism in the soleus muscle. The diagram uses emerald green (#7AC143) for the soleus muscle, navy blue (#1A3A52) for the background, and orange (#FF6B35) for energy pathways. The illustration shows glucose molecules, mitochondria, and energy production (ATP). Clean, modern design with clear labels and arrows showing the metabolic process. The style is contemporary scientific illustration suitable for a wellness website. High quality, detailed, educational, visually appealing.",
+      "style": "Scientific infographic, modern design, educational, contemporary",
+      "resolution": "1200x800",
+      "aspect_ratio": "3:2"
+    },
+    {
+      "id": "wellness_transformation",
+      "section": "Results/Benefits",
+      "purpose": "Wellness transformation and vitality",
+      "prompt": "A healthy, vibrant person in their 30s standing in a bright, modern wellness studio with excellent posture and radiant energy. They have a confident, healthy expression and appear energized and vital. The setting features natural light, white walls, green wellness accents, and modern minimalist design. The person wears comfortable, modern athletic wear. The image conveys health transformation, vitality, energy, and wellness achievement. Professional wellness photography capturing the essence of successful health transformation. High quality, realistic, vibrant, inspiring.",
+      "style": "Professional wellness photography, vibrant, inspiring, transformative",
+      "resolution": "1200x800",
+      "aspect_ratio": "3:2"
+    },
+    {
+      "id": "research_laboratory",
+      "section": "Clinical Validation",
+      "purpose": "Scientific research and validation setting",
+      "prompt": "A modern, clean scientific laboratory or research facility with advanced equipment. The setting shows scientific precision, modern technology, and professional research environment. The color scheme includes navy blue, white, and subtle green accents. The image conveys scientific credibility, research excellence, and evidence-based approach. Professional scientific photography. The setting should feel modern, trustworthy, and scientifically rigorous. High quality, realistic, professional, credible.",
+      "style": "Professional scientific photography, modern laboratory, credible, professional",
+      "resolution": "1200x800",
+      "aspect_ratio": "3:2"
+    },
+    {
+      "id": "cellular_health",
+      "section": "Cellular Impact",
+      "purpose": "Microscopic view of cellular health and mitochondria",
+      "prompt": "A scientific illustration or microscopic visualization showing healthy cells and mitochondria. The image uses emerald green (#7AC143) for healthy cells, navy blue (#1A3A52) for the background, and shows cellular structures in detail. The style is modern scientific illustration with clean lines and professional appearance. The image conveys cellular health, energy production, and metabolic optimization. High quality, detailed, scientific, educational.",
+      "style": "Scientific illustration, microscopic, cellular, modern design",
+      "resolution": "1200x1200",
+      "aspect_ratio": "1:1"
+    }
+  ],
+  "usage_guidelines": {
+    "style": "Professional, scientific, modern wellness aesthetic",
+    "tone": "Evidence-based, transformative, inspiring, credible",
+    "color_palette": "Emerald green, navy blue, white, orange accents",
+    "photography_style": "Professional, well-lit, minimalist, modern",
+    "target_audience": "Health-conscious individuals, wellness seekers, scientific-minded people"
+  },
+  "generation_notes": "All images should reflect WellPro's commitment to evidence-based wellness, scientific precision, and holistic health transformation. Images should be realistic, professional, and suitable for a premium wellness website. Use consistent lighting, color palette, and aesthetic across all images."
+}
